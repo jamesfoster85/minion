@@ -1,22 +1,23 @@
+body {
+	background-color: #333
+}
+
 .navbar {
 	border-radius: 0;
-	font-family: "Helvetica Neue", Helvetica;
+	font-family: "Open Sans", sans-serif;
 	font-weight: 200;
 	box-shadow: 0px 1px 3px #2a2a2a;
-	background: url('random_grey_variations.png');
+	background-color: #333;
 }
 
 .navbar-inverse a.navbar-brand {
-	font-family: "Helvetica Neue", Helvetica;
+	font-family: "Open Sans", sans-serif;
 	font-weight: 100;
 	color: white;
 }
 
 .hero {
-	background: url('hero.jpg') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
+	background-color: #F9F7EC;
 	height: 370px;
 	box-shadow: 0px 3px 8px #2a2a2a;
 }
@@ -31,13 +32,13 @@ h1, h2, h3, h4, h5, h6, .navbar {
 }
 
 .frosty h1 {
-	font-family: "Helvetica Neue", Helvetica;
+	font-family: "Open Sans", sans-serif;
 	font-weight: 100;
 	text-shadow: rgba(0,0,0, 0.95) 1px 1px;
 }
 
 .frosty h2 {
-	font-family: "Helvetica Neue", Helvetica;
+	font-family: "Open Sans", sans-serif;
 	font-weight: 200;
 	text-shadow: rgba(0,0,0, 0.95) 1px 1px;
 }
